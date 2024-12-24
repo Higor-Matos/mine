@@ -89,7 +89,7 @@ Melhora a performance da IA de mobs, reduzindo o impacto no desempenho.
 ## 🛠️ Como Instalar
 
 1. **Baixar o Java**  
-   Escolha e instale as duas versões do Java:  
+   Escolha e instale uma das versões do Java:  
    - [Java 64-bit versão 1](https://javadl.oracle.com/webapps/download/AutoDL?BundleId=251407_0d8f12bc927a4e2c9f8568ca567db4ee)  
    - [Java 64-bit versão 2](https://javadl.oracle.com/webapps/download/AutoDL?BundleId=251408_0d8f12bc927a4e2c9f8568ca567db4ee)  
 
@@ -114,4 +114,10 @@ Melhora a performance da IA de mobs, reduzindo o impacto no desempenho.
    Mova todos os arquivos extraídos para essa pasta.
 
 6. **Iniciar o Jogo**  
-   Abra o TLauncher, selecione o perfil Forge 1.20.1, e inicie o jogo. Divirta-se!
+   Abra o TLauncher, selecione o perfil Forge 1.20.1, e inicie o jogo.
+
+---
+
+## 🌐 Servidor
+Conecte-se ao servidor oficial do modpack:
+**mineboladopelado.jogar.io**
